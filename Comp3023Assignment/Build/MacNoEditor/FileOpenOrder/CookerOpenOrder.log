@@ -1,0 +1,1288 @@
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 0
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uexp" 1
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.ubulk" 2
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 3
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uexp" 4
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Pictures/BarrelWrapMDEV1003.uasset" 5
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Pictures/BarrelWrapMDEV1003.uexp" 6
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Pictures/BarrelWrapMDEV1003.ubulk" 7
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Materials/Barrel/YellowCan.uasset" 8
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Materials/Barrel/YellowCan.uexp" 9
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Materials/Barrel/metalLid.uasset" 10
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Materials/Barrel/metalLid.uexp" 11
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Materials/Barrel/barrel01-fbx.uasset" 12
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Materials/Barrel/barrel01-fbx.uexp" 13
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/Geometry/Meshes/CubeMaterial.uasset" 14
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/Geometry/Meshes/CubeMaterial.uexp" 15
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/Geometry/Meshes/TemplateFloor.uasset" 16
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/Geometry/Meshes/TemplateFloor.uexp" 17
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 18
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp" 19
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 20
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uexp" 21
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.ubulk" 22
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 23
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uexp" 24
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Explosion_Cue.uasset" 25
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Explosion_Cue.uexp" 26
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 27
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 28
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 29
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 30
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 31
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 32
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 33
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 34
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 35
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 36
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 37
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Burst_M.uasset" 38
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Burst_M.uexp" 39
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Burst_M.ubulk" 40
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_Burst.uasset" 41
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_Burst.uexp" 42
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 43
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 44
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 45
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 46
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 47
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 48
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 49
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 50
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/P_Explosion.uasset" 51
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/P_Explosion.uexp" 52
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 53
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 54
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Door_M.uasset" 55
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Door_M.uexp" 56
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Door_M.ubulk" 57
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Door_N.uasset" 58
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Door_N.uexp" 59
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Door_N.ubulk" 60
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Door.uasset" 61
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Door.uexp" 62
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Glass.uasset" 63
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Glass.uexp" 64
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Door.uasset" 65
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Door.uexp" 66
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 67
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uexp" 68
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 69
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_MaterialSphere.uexp" 70
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 71
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_MatPreviewMesh_02.uexp" 72
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Chair_N.uasset" 73
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Chair_N.uexp" 74
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Chair_N.ubulk" 75
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Chair_M.uasset" 76
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Chair_M.uexp" 77
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Chair_M.ubulk" 78
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Chair.uasset" 79
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Chair.uexp" 80
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Couch.uasset" 81
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Couch.uexp" 82
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Shelf_N.uasset" 83
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Shelf_N.uexp" 84
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Shelf_N.ubulk" 85
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Shelf_M.uasset" 86
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Shelf_M.uexp" 87
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Shelf_M.ubulk" 88
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Shelf.uasset" 89
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Shelf.uexp" 90
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Shelf.uasset" 91
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Shelf.uexp" 92
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_RockMesh_N.uasset" 93
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_RockMesh_N.uexp" 94
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_RockMesh_N.ubulk" 95
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 96
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 97
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 98
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_RockMesh_M.uasset" 99
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_RockMesh_M.uexp" 100
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 101
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 102
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 103
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 104
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 105
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 106
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Rock.uasset" 107
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Rock.uexp" 108
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Rock.uasset" 109
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Rock.uexp" 110
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Basic_Wall.uasset" 111
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Basic_Wall.uexp" 112
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Basic_Floor.uasset" 113
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Basic_Floor.uexp" 114
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Stairs.uasset" 115
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Stairs.uexp" 116
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Bush_N.uasset" 117
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Bush_N.uexp" 118
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Bush_N.ubulk" 119
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Bush_D.uasset" 120
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Bush_D.uexp" 121
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Bush_D.ubulk" 122
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Bush.uasset" 123
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Bush.uexp" 124
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Bush.uasset" 125
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Bush.uexp" 126
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 127
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Wedge_A.uexp" 128
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 129
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_WideCapsule.uexp" 130
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Tube.uasset" 131
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Tube.uexp" 132
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 133
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 134
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 135
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_TriPyramid.uexp" 136
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Trim.uasset" 137
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Trim.uexp" 138
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Plane.uasset" 139
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Plane.uexp" 140
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 141
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 142
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 143
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Pipe_90.uexp" 144
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 145
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Pipe_180.uexp" 146
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Pipe.uasset" 147
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Pipe.uexp" 148
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Cone.uasset" 149
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Cone.uexp" 150
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 151
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 152
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 153
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_NarrowCapsule.uexp" 154
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 155
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Trim_90_In.uexp" 156
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Torus.uasset" 157
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Torus.uexp" 158
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 159
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_Door_400x400.uexp" 160
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_400x400.uasset" 161
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_400x400.uexp" 162
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_500x500.uasset" 163
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_500x500.uexp" 164
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Pillar_50x500.uasset" 165
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Pillar_50x500.uexp" 166
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_400x300.uasset" 167
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_400x300.uexp" 168
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 169
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_Window_400x400.uexp" 170
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Explosion02.uasset" 171
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Explosion02.uexp" 172
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Starter_Wind06.uasset" 173
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Starter_Wind06.uexp" 174
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Starter_Birds01.uasset" 175
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Starter_Birds01.uexp" 176
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Fire_Sparks01.uasset" 177
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Fire_Sparks01.uexp" 178
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Smoke01.uasset" 179
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Smoke01.uexp" 180
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Collapse01.uasset" 181
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Collapse01.uexp" 182
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Light02.uasset" 183
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Light02.uexp" 184
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Light02_Cue.uasset" 185
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Light02_Cue.uexp" 186
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Fire01.uasset" 187
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Fire01.uexp" 188
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Light01_Cue.uasset" 189
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Light01_Cue.uexp" 190
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Starter_Wind05.uasset" 191
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Starter_Wind05.uexp" 192
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Steam01.uasset" 193
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Steam01.uexp" 194
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Starter_Music01.uasset" 195
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Starter_Music01.uexp" 196
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Explosion01.uasset" 197
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Explosion01.uexp" 198
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Light01.uasset" 199
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Light01.uexp" 200
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Collapse02.uasset" 201
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Collapse02.uexp" 202
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 203
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uexp" 204
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 205
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uexp" 206
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 207
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uexp" 208
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 209
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uexp" 210
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 211
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uexp" 212
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 213
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uexp" 214
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 215
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uexp" 216
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 217
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uexp" 218
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 219
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uexp" 220
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 221
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uexp" 222
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 223
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 224
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 225
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 226
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 227
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 228
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 229
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uexp" 230
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 231
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uexp" 232
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 233
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uexp" 234
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 235
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uexp" 236
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 237
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uexp" 238
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 239
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uexp" 240
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 241
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uexp" 242
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 243
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uexp" 244
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 245
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uexp" 246
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 247
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 248
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 249
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uexp" 250
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 251
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 252
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 253
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 254
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 255
+"../../../Engine/Content/EngineResources/Black.uasset" 256
+"../../../Engine/Content/EngineResources/Black.uexp" 257
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 258
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 259
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 260
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 261
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 262
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 263
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 264
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 265
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 266
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 267
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 268
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 269
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 270
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 271
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 272
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 273
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 274
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 275
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 276
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 277
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 278
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 279
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 280
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 281
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 282
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 283
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 284
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 285
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 286
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 287
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 288
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 289
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 290
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 291
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 292
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 293
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 294
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 295
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 296
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 297
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 298
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 299
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 300
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 301
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 302
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 303
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 304
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 305
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 306
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 307
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 308
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 309
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 310
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 311
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 312
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 313
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 314
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 315
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 316
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 317
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 318
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 319
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 320
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 321
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 322
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 323
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 324
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 325
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 326
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 327
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 328
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 329
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 330
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 331
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 332
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 333
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 334
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 335
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 336
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 337
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 338
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 339
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 340
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 341
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 342
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 343
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 344
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 345
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 346
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 347
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 348
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 349
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 350
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 351
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 352
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 353
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 354
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 355
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 356
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 357
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 358
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 359
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 360
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 361
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 362
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 363
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 364
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 365
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 366
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 367
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 368
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 369
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 370
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 371
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 372
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 373
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 374
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 375
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 376
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 377
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 378
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 379
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 380
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 381
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 382
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 383
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uexp" 384
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 385
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 386
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 387
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 388
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 389
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 390
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 391
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 392
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 393
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 394
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 395
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 396
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 397
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 398
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 399
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 400
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 401
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 402
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 403
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 404
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 405
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 406
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 407
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 408
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 409
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 410
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 411
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uexp" 412
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 413
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp" 414
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 415
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 416
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 417
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 418
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 419
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 420
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 421
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 422
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 423
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 424
+"../../../Engine/Content/EditorResources/S_Note.uasset" 425
+"../../../Engine/Content/EditorResources/S_Note.uexp" 426
+"../../../Engine/Content/EditorResources/S_Note.ubulk" 427
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 428
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 429
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 430
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 431
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 432
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 433
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 434
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 435
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 436
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 437
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 438
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 439
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 440
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 441
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 442
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 443
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 444
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 445
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 446
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 447
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 448
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 449
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.ubulk" 450
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 451
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uexp" 452
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.ubulk" 453
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 454
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 455
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 456
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 457
+"../../../Engine/Content/BasicShapes/Cone.uasset" 458
+"../../../Engine/Content/BasicShapes/Cone.uexp" 459
+"../../../Engine/Content/BasicShapes/Cube.uasset" 460
+"../../../Engine/Content/BasicShapes/Cube.uexp" 461
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 462
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 463
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 464
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 465
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 466
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 467
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 468
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 469
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 470
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 471
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 472
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 473
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 474
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 475
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 476
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 477
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 478
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 479
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 480
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 481
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 482
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 483
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 484
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 485
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 486
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 487
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 488
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 489
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 490
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 491
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 492
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 493
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 494
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 495
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 496
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 497
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 498
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 499
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 500
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 501
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 502
+"../../../Engine/Content/EngineSounds/Master.uasset" 503
+"../../../Engine/Content/EngineSounds/Master.uexp" 504
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 505
+"../../../Engine/Content/EngineMeshes/Cylinder.uexp" 506
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 507
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 508
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 509
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 510
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 511
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 512
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 513
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 514
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 515
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 516
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 517
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 518
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 519
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 520
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 521
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 522
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 523
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 524
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 525
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 526
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 527
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 528
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 529
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 530
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 531
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 532
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 533
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 534
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 535
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 536
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 537
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 538
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 539
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 540
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 541
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 542
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp" 543
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 544
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 545
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 546
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 547
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 548
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 549
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 550
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 551
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 552
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 553
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 554
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 555
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 556
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 557
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 558
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 559
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 560
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 561
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 562
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 563
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 564
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 565
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 566
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 567
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 568
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 569
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 570
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 571
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 572
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 573
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 574
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 575
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 576
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 577
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 578
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 579
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 580
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 581
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 582
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 583
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 584
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 585
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 586
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 587
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 588
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 589
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 590
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 591
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 592
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 593
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 594
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 595
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 596
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 597
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 598
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 599
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 600
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 601
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 602
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 603
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 604
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 605
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Sounds/backgroud.uasset" 606
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Sounds/backgroud.uexp" 607
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Sounds/backgroud_Cue.uasset" 608
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Sounds/backgroud_Cue.uexp" 609
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Material_006.uasset" 610
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Material_006.uexp" 611
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Assignment4_Sphere.uasset" 612
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Assignment4_Sphere.uexp" 613
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Material_003.uasset" 614
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Material_003.uexp" 615
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Material_001.uasset" 616
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Material_001.uexp" 617
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Material_005.uasset" 618
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Material_005.uexp" 619
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Material_002.uasset" 620
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Material_002.uexp" 621
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Material.uasset" 622
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Material.uexp" 623
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Material_004.uasset" 624
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Material_004.uexp" 625
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Assignment4_Cube.uasset" 626
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Models/Assignment4_Cube.uexp" 627
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/Geometry/Meshes/1M_Cube.uasset" 628
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/Geometry/Meshes/1M_Cube.uexp" 629
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 630
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 631
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 632
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 633
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 634
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 635
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 636
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 637
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 638
+"../../../Engine/Content/BasicShapes/Plane.uasset" 639
+"../../../Engine/Content/BasicShapes/Plane.uexp" 640
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Pictures/GCLogo.uasset" 641
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Pictures/GCLogo.uexp" 642
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Pictures/GCLogo.ubulk" 643
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Pictures/GCLogo_Mat.uasset" 644
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Pictures/GCLogo_Mat.uexp" 645
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/GCBrandColor/GCSecondaryYellow_M.uasset" 646
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/GCBrandColor/GCSecondaryYellow_M.uexp" 647
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/GCBrandColor/GCSecondarySkyBlue.uasset" 648
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/GCBrandColor/GCSecondarySkyBlue.uexp" 649
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/GCBrandColor/GCSecondaryOrange.uasset" 650
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/GCBrandColor/GCSecondaryOrange.uexp" 651
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/GCBrandColor/GCSecondaryCream_M.uasset" 652
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/GCBrandColor/GCSecondaryCream_M.uexp" 653
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/GCBrandColor/GCPriGreen_M.uasset" 654
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/GCBrandColor/GCPriGreen_M.uexp" 655
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/GCBrandColor/GCPriBlue_M.uasset" 656
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/GCBrandColor/GCPriBlue_M.uexp" 657
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 658
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 659
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 660
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 661
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 662
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 663
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Sounds/splat.uasset" 664
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Sounds/splat.uexp" 665
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Meshes/BaseMaterial.uasset" 666
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Meshes/BaseMaterial.uexp" 667
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 668
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Meshes/CubeMaterialOverride.uexp" 669
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Pictures/EditorCube12_Blueprint.uasset" 670
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Pictures/EditorCube12_Blueprint.uexp" 671
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 672
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Textures/FirstPersonCrosshair.uexp" 673
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 674
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uexp" 675
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Sounds/bubblepop.uasset" 676
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Sounds/bubblepop.uexp" 677
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 678
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uexp" 679
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 680
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 681
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 682
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 683
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 684
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 685
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 686
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 687
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 688
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 689
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 690
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 691
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 692
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 693
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 694
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uexp" 695
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 696
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 697
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 698
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 699
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 700
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 701
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 702
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 703
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Textures/T_FPGun_M.uasset" 704
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Textures/T_FPGun_M.uexp" 705
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Textures/T_FPGun_M.ubulk" 706
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Textures/T_FPGun_N.uasset" 707
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Textures/T_FPGun_N.uexp" 708
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Textures/T_FPGun_N.ubulk" 709
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/M_FPGun.uasset" 710
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Materials/M_FPGun.uexp" 711
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 712
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uexp" 713
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Mesh/SK_FPGun.uasset" 714
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FPWeapon/Mesh/SK_FPGun.uexp" 715
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 716
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 717
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 718
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 719
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 720
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 721
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 722
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 723
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 724
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uexp" 725
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.ubulk" 726
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 727
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 728
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 729
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 730
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 731
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 732
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 733
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 734
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 735
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 736
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 737
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 738
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 739
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uexp" 740
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.ubulk" 741
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 742
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uexp" 743
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 744
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 745
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uexp" 746
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 747
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uexp" 748
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 749
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uexp" 750
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 751
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uexp" 752
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 753
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uexp" 754
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 755
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uexp" 756
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 757
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPerson_Fire.uexp" 758
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 759
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPersonFire_Montage.uexp" 760
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 761
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 762
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 763
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPerson_Idle.uexp" 764
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 765
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uexp" 766
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 767
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPerson_Run.uexp" 768
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 769
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uexp" 770
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 771
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPerson_JumpStart.uexp" 772
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 773
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPerson/Animations/FirstPerson_AnimBP.uexp" 774
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 775
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uexp" 776
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 777
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uexp" 778
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 779
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 780
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 781
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 782
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 783
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 784
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 785
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 786
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 787
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 788
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Sounds/barrel01-fbx_Blueprint.uasset" 789
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/MyContent/Sounds/barrel01-fbx_Blueprint.uexp" 790
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 791
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uexp" 792
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.ubulk" 793
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPersonBP/Maps/FirstPersonExampleMap.uexp" 794
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 795
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 796
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 797
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_AssetPlatform.uasset" 798
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_AssetPlatform.uexp" 799
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 800
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 801
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 802
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 803
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 804
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 805
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 806
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 807
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 808
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 809
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 810
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 811
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 812
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 813
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 814
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 815
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 816
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 817
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 818
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 819
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 820
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 821
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 822
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 823
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 824
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 825
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 826
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 827
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 828
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 829
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 830
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 831
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 832
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/Skybox.uexp" 833
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 834
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 835
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 836
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 837
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 838
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 839
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 840
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/BP_LightStudio.uexp" 841
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/Advanced_Lighting.uexp" 842
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/Advanced_Lighting.umap" 843
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Sphere.uasset" 844
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Sphere.uexp" 845
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 846
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_QuadPyramid.uexp" 847
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Cube.uasset" 848
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Shapes/Shape_Cube.uexp" 849
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Frame_N.uasset" 850
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Frame_N.uexp" 851
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Frame_N.ubulk" 852
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Frame_M.uasset" 853
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Frame_M.uexp" 854
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Frame_M.ubulk" 855
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Frame.uasset" 856
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Frame.uexp" 857
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_WindowFrame.uasset" 858
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_WindowFrame.uexp" 859
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_TableRound_N.uasset" 860
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_TableRound_N.uexp" 861
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_TableRound_N.ubulk" 862
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_TableRound_M.uasset" 863
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_TableRound_M.uexp" 864
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_TableRound_M.ubulk" 865
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_TableRound.uasset" 866
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_TableRound.uexp" 867
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_TableRound.uasset" 868
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_TableRound.uexp" 869
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Statue_N.uasset" 870
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Statue_N.uexp" 871
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Statue_N.ubulk" 872
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Statue_M.uasset" 873
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Statue_M.uexp" 874
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Statue_M.ubulk" 875
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 876
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 877
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Statue.uasset" 878
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Statue.uexp" 879
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Statue.uasset" 880
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Statue.uexp" 881
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_PillarFrame300.uasset" 882
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_PillarFrame300.uexp" 883
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_PillarFrame.uasset" 884
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_PillarFrame.uexp" 885
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_GlassWindow.uasset" 886
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_GlassWindow.uexp" 887
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_DoorFrame.uasset" 888
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_DoorFrame.uexp" 889
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_CornerFrame.uasset" 890
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_CornerFrame.uexp" 891
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Chair.uasset" 892
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Chair.uexp" 893
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/MaterialSphere.uasset" 894
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/MaterialSphere.uexp" 895
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 896
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Dust_Particle_D.uexp" 897
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Dust_Particle_D.ubulk" 898
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 899
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_Dust_Particle.uexp" 900
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 901
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/P_Ambient_Dust.uexp" 902
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 903
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Starter_Music_Cue.uexp" 904
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 905
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 906
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Collapse_Cue.uasset" 907
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Collapse_Cue.uexp" 908
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 909
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_Window_400x300.uexp" 910
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 911
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_Door_400x300.uexp" 912
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_400x200.uasset" 913
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Wall_400x200.uexp" 914
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Floor_400x400.uasset" 915
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Architecture/Floor_400x400.uexp" 916
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 917
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Walnut_N.uexp" 918
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 919
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_MacroVariation.uasset" 920
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_MacroVariation.uexp" 921
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 922
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Walnut_D.uexp" 923
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 924
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 925
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 926
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 927
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Pine_N.uexp" 928
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Pine_N.ubulk" 929
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 930
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Pine_D.uexp" 931
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Pine_D.ubulk" 932
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 933
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 934
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 935
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Wood_Pine.uasset" 936
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Wood_Pine.uexp" 937
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 938
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Oak_D.uexp" 939
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Oak_D.ubulk" 940
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 941
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Oak_N.uexp" 942
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Oak_N.ubulk" 943
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Wood_Oak.uasset" 944
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Wood_Oak.uexp" 945
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 946
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uexp" 947
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.ubulk" 948
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 949
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uexp" 950
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.ubulk" 951
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 952
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uexp" 953
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 954
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uexp" 955
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.ubulk" 956
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 957
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uexp" 958
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 959
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uexp" 960
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Water_N.uasset" 961
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Water_N.uexp" 962
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Water_N.ubulk" 963
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Water_M.uasset" 964
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Water_M.uexp" 965
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Water_M.ubulk" 966
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Water_Ocean.uasset" 967
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Water_Ocean.uexp" 968
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Water_Lake.uasset" 969
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Water_Lake.uexp" 970
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 971
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 972
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 973
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 974
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Panel_N.uexp" 975
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Panel_N.ubulk" 976
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 977
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Panel_M.uexp" 978
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Panel_M.ubulk" 979
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Tech_Panel.uasset" 980
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Tech_Panel.uexp" 981
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 982
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 983
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 984
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 985
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uexp" 986
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.ubulk" 987
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 988
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uexp" 989
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 990
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Tech_Hex_Tile.uexp" 991
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 992
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Single_Tile_N.uexp" 993
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Single_Tile_N.ubulk" 994
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 995
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Checker_Noise_M.uexp" 996
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Checker_Noise_M.ubulk" 997
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 998
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Dot_M.uexp" 999
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Dot_M.ubulk" 1000
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1001
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Dot_N.uexp" 1002
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Tech_Dot_N.ubulk" 1003
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1004
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Tech_Checker_Dot.uexp" 1005
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1006
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Slate_D.uexp" 1007
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Slate_D.ubulk" 1008
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1009
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Slate_N.uexp" 1010
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Slate_N.ubulk" 1011
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1012
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Rock_Slate.uexp" 1013
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1014
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Sandstone_D.uexp" 1015
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Sandstone_D.ubulk" 1016
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1017
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Sandstone_N.uexp" 1018
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Sandstone_N.ubulk" 1019
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1020
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Rock_Sandstone.uexp" 1021
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1022
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 1023
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 1024
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1025
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 1026
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 1027
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1028
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 1029
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1030
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Basalt_N.uexp" 1031
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Basalt_N.ubulk" 1032
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1033
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Rock_Basalt.uexp" 1034
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1035
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 1036
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 1037
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1038
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Metal_Steel.uexp" 1039
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1040
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Rust_N.uexp" 1041
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Rust_N.ubulk" 1042
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1043
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Rust_D.uexp" 1044
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Rust_D.ubulk" 1045
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1046
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Metal_Rust.uexp" 1047
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1048
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 1049
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1050
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1051
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Metal_Gold.uexp" 1052
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1053
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 1054
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 1055
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1056
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Metal_Copper.uexp" 1057
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1058
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Metal_Chrome.uexp" 1059
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1060
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 1061
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 1062
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1063
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 1064
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1065
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 1066
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1067
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_ground_Moss_D.uexp" 1068
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_ground_Moss_D.ubulk" 1069
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1070
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Moss_N.uexp" 1071
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Moss_N.ubulk" 1072
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1073
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Ground_Moss.uexp" 1074
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1075
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Gravel_D.uexp" 1076
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Gravel_D.ubulk" 1077
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1078
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Gravel_N.uexp" 1079
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Gravel_N.ubulk" 1080
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1081
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Ground_Gravel.uexp" 1082
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1083
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1084
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1085
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1086
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Grass_N.uexp" 1087
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1088
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1089
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1090
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1091
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 1092
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 1093
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1094
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 1095
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 1096
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1097
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 1098
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 1099
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1100
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 1101
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 1102
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1103
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 1104
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1105
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1106
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1107
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1108
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1109
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1110
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1111
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 1112
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1113
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1114
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1115
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1116
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 1117
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1118
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 1119
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 1120
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1121
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 1122
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 1123
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1124
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Gradinet_01.uexp" 1125
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 1126
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1127
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 1128
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 1129
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1130
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 1131
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 1132
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1133
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 1134
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1135
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1136
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1137
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1138
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1139
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1140
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1141
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1142
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1143
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1144
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1145
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1146
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1147
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1148
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1149
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1150
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1151
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1152
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1153
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1154
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1155
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1156
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1157
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1158
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1159
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1160
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1161
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1162
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 1163
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 1164
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1165
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1166
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1167
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1168
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1169
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1170
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1171
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1172
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1173
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 1174
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 1175
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1176
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 1177
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 1178
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1179
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 1180
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1181
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 1182
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 1183
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1184
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 1185
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 1186
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1187
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 1188
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1189
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 1190
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1191
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 1192
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 1193
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1194
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 1195
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1196
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 1197
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1198
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 1199
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 1200
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1201
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 1202
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 1203
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1204
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 1205
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 1206
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1207
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 1208
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1209
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 1210
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 1211
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Lamp_N.uasset" 1212
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Lamp_N.uexp" 1213
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Lamp_N.ubulk" 1214
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Lamp_M.uasset" 1215
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Lamp_M.uexp" 1216
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Lamp_M.ubulk" 1217
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1218
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/Materials/M_Lamp.uexp" 1219
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1220
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Lamp_Wall.uexp" 1221
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1222
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 1223
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1224
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Props/SM_Lamp_Ceiling.uexp" 1225
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1226
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 1227
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1228
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1229
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1230
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1231
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1232
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1233
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1234
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 1235
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1236
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/P_Steam_Lit.uexp" 1237
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Steam01_Cue.uasset" 1238
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Steam01_Cue.uexp" 1239
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1240
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 1241
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Spark_Core.uasset" 1242
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Spark_Core.uexp" 1243
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Spark_Core.ubulk" 1244
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1245
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_Spark.uexp" 1246
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1247
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 1248
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/P_Sparks.uasset" 1249
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/P_Sparks.uexp" 1250
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1251
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 1252
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1253
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 1254
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/P_Smoke.uasset" 1255
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/P_Smoke.uexp" 1256
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1257
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Smoke01_Cue.uexp" 1258
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1259
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 1260
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1261
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 1262
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1263
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 1264
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 1265
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1266
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 1267
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 1268
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1269
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 1270
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/P_Fire.uasset" 1271
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Particles/P_Fire.uexp" 1272
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Fire01_Cue.uasset" 1273
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Audio/Fire01_Cue.uexp" 1274
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1275
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 1276
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/StarterMap.uexp" 1277
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/StarterMap.umap" 1278
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1279
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 1280
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 1281
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/Minimal_Default.uexp" 1282
+"/Users/benb/Documents/Unreal Projects/Comp3023Assignment/Content/StarterContent/Maps/Minimal_Default.umap" 1283
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1284
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1285
+"../../../Engine/Content/Maps/Entry.uexp" 1286
+"../../../Engine/Content/Maps/Entry.umap" 1287
